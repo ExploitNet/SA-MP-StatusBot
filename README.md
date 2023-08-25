@@ -14,25 +14,30 @@
 #### 2. در قدم دوم فایل رو باز میکنید و کد های داخل فایل رو همانند اموزش زیر در گیم مودتون قرار میدید.
   - **1. مرحله اول(انتخاب متن در فایل اسکریپت)**
 
-![png1](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/7158903e-1938-420d-9d0b-9d7699054059)
+![image3333](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/31274b28-f915-415a-aaea-f6c571e2cd54)
+
  
 - **2. مرحله دوم(بازکردن گیم مود و سرچ یک کامند در گیم مود مانند کامند cmd:bank)**
 
 
-**![png2](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/3abbbd6d-4911-4872-b22a-4fc880880a84)**
+![image1111](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/b6c6921a-1865-423e-965d-a1d6d71243ee)
 
-**![png3](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/04692b11-cd18-42a2-a703-bc421d32cd5b)**
+
+![image22222](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/50c883be-a805-4874-938e-92f2e46ae018)
+
 
 - **3.مرحله سوم (جایگذاری کد در زیر کامند cmd:bank)**
 
 
-**![image](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/08c16ab7-cf8a-43e0-9fa3-77a961541c9c)**
+![image1](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/8a7c557c-9e08-4387-b940-1d26ba22cf3c)
+
 ***
 
 
 #### 3. در قدم سوم شما باید اطلاعا خواسته شده مانند (ایپی سرور به صورت عددی,پورت سرور,توکن ربات تلگرامی, ایدی چنل یا گروه سرور و مود مورد نظر) را وارد کنید.
 
-![image2](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/42607941-6307-46fe-8944-b1d346238b21)
+![image11](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/69ba66ed-6a49-44a8-9f32-2a2913afe7cf)
+
 
 ####  4. معرفی انواع مود ارسال متن وضعیت سرور.
 
@@ -46,19 +51,22 @@
 
 ***
 ##### <div dir="rtl">توجه : این اسکریپت برای گیم مود فروت نوشته شده و اگر میخواهید که از ان در گیم مود های دیگر استفاده کنید باید بیس کد رو تغییر بدید.</div>
+- **هرگونه مشکلی داشتید میتونید در گروه [ProPawno](https://t.me/ProPawnoGP) اعلام کنید**
 ***
 #### <div dir="rtl">نمونه های ارسال پیام در مورد های مختلف به صورت عکس های زیر میباشد🔰</div>
 
 - **Mode 1**
 
 
-![image](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/165f8ebf-1f84-4a9f-822b-43be9db78e67)
+![image3434](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/6ad475d0-4984-4b4e-afa1-ad83c39e1e13)
+
 
 
 - **Mode 2**
 
 
-![image](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/9d2486ea-aec4-4cc8-91ca-40c72e29f687)
+![image4444](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/74fff8ae-ef40-4b64-9f69-219b5f8506d7)
+
 
 
 
