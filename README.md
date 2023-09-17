@@ -34,9 +34,11 @@
 ***
 
 
-#### 3. در قدم سوم شما باید اطلاعا خواسته شده مانند (ایپی سرور به صورت عددی,پورت سرور,توکن ربات تلگرامی, ایدی چنل یا گروه سرور و مود مورد نظر) را وارد کنید.
+#### 3. در قدم سوم شما باید اطلاعا خواسته شده مانند (ایپی سرور به صورت عددی,پورت سرور,توکن ربات تلگرامی, ایدی چنل یا گروه سرور) را وارد کنید.
+- **بخش مود از حالت دستی برداشته شد و شما متوانید در زمان استفاده از کامند مود مورد نظر (از 1 تا 3) را وارد کنید .مثال (sendstatus 3/)**
 
-![image11](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/69ba66ed-6a49-44a8-9f32-2a2913afe7cf)
+![image](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/bf14a60b-ca18-4acb-8001-30661075f214)
+
 
 
 ####  4. معرفی انواع مود ارسال متن وضعیت سرور.
@@ -47,6 +49,7 @@
 | - | - |
 | **Mode 1** | **Sending server status as text** |
 | **Mode 2** | **Sending server status as an inline button** |
+| **Mode 3** | **Sending server status text along with photos of online players** |
 </details>
 
 ***
@@ -68,6 +71,8 @@
 ![image4444](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/74fff8ae-ef40-4b64-9f69-219b5f8506d7)
 
 
+- **Mode 3**
 
+![image33333333333](https://github.com/ProPawno/SA-MP-StatusBot/assets/128444327/024c1f14-4ce0-4fd0-9360-fbaea41ee716)
 
 
